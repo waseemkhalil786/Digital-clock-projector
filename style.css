@@ -1,15 +1,15 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #779fa8;
+    background-color: #6fb9ca;
   }
   
   .container {
     max-width: 400px;
     margin: 50px auto;
     padding: 20px;
-    border: 1px solid #8b6868;
+    border: 50px solid #84f1e8;
     border-radius: 5px;
-    background-color: #64848b;
+    background-color: #b5e9e2;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
    margin-top: 280px;
 
@@ -17,20 +17,24 @@ body {
   
   h1 {
     text-align: center;
-    color: #333333;
+    color: #121616;
+    border: 10px solid #34d899a9;
+    background-color: rgb(109, 238, 223);
   }
   
   .clock {
     text-align: center;
+    border: 10px solid #7bceaea9;
+    background-color: #c5e3e7;
   }
   
   .time {
     font-size: 3em;
-    color: #4d4a4a;
+    color: #802b2b;
   }
   
   .date {
     font-size: 1.5em;
-    color: #383131;
+    color: #7e5656;
   }
   

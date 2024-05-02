@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #779fa8;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #8b6868;
+    border-radius: 5px;
+    background-color: #64848b;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   margin-top: 280px;
+
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333333;
+  }
+  
+  .clock {
+    text-align: center;
+  }
+  
+  .time {
+    font-size: 3em;
+    color: #4d4a4a;
+  }
+  
+  .date {
+    font-size: 1.5em;
+    color: #383131;
+  }
+  
